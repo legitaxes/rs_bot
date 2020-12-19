@@ -5,7 +5,7 @@ a personal bot that is able to cover a few simple activities in the point and cl
 ```
 1. High Alching
 2. Fletching logs to unstrung longbow
-3. Auto Prayer Flick Rapid Heal (For NMZ, to constant stay at 1HP)
+3. Auto Prayer Flick Rapid Heal (For NMZ, to constantly stay at 1HP)
 4. Auto mining Iron Ore (Mining Guild near the bank)
 ```
 
