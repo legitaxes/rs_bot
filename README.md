@@ -1,6 +1,8 @@
 # Old School Runescape Bot
 a personal bot that is able to cover a few simple activities in the point and click game that using a simple tool called UIPath
 
+# Program Required to run: UIPath
+
 ## It covers basic botting such as: 
 ```
 1. High Alching
