@@ -1,5 +1,5 @@
 # Old School Runescape Bot
-a personal bot that is able to cover a few simple activities in the point and click game that using a simple tool called UIPath
+a personal bot that is able to cover a few simple activities in the point and click game that uses a simple tool called UIPath
 
 # Program Required to run: UIPath
 
